@@ -73,7 +73,7 @@ html {
 /*  SECTION  1  */
 .section-1 {
   padding: 1rem 8.5rem;
-  background: url('/assets/header-background.jpg');
+  background: url('../assets/header-background.jpg');
   background-size: 100% 100%;
   background-repeat: no-repeat;
   color: white;
@@ -141,7 +141,7 @@ html {
 /*  SECTION 3  */
 .section-3 {
   padding: 8rem 10rem 0rem 10rem;
-  background: url('/assets/section3-topborder.jpg');
+  background: url('../assets/section3-topborder.jpg');
   background-size: 100% auto;
   background-repeat: no-repeat;
   font-size: 1.1rem;
