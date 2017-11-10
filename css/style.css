@@ -1,0 +1,497 @@
+/*font-family: 'Open Sans', sans-serif;*/
+/*font-family: 'Montserrat', sans-serif;*/
+/*font-family: 'Nunito Sans', sans-serif;*/
+html {
+  font-size: 1.4vw;
+}
+
+/*  CONTAINERS  */
+.container-lg {
+  padding: 0rem 10rem;
+}
+
+
+/*  NAVBAR  */
+.navbar {
+  padding: 0.65rem 0rem;
+}
+
+.navbar .nav-logo {
+  max-width: 7rem;
+}
+
+.navbar .btn {
+  font-size: 0.8rem;
+  margin: 0rem 1rem;
+  height: 1.75rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.navbar .btn-link {
+  color: #858585;
+}
+
+/*  BUTTONS  */
+
+.btn-orange {
+  background-color: #f7941d;
+  padding: 0.35rem 1.5rem;
+  border: none;
+  border-radius: 0.25rem;
+  color: #ffffff;
+}
+
+.btn-green {
+  background-color: #8bc63f;
+  border: none;
+  border-radius: 0.25rem;
+  color: #ffffff;
+}
+
+.btn-blue {
+  background-color: #25a3db;
+  border: none;
+  border-radius: 0.25rem;
+  color: #ffffff;
+}
+
+.btn-red {
+  background-color: #e43858;
+  border: none;
+  border-radius: 0.25rem;
+  color: #ffffff;
+}
+
+.btn-yellow {
+  background-color: #f0ca03;
+  border: none;
+  border-radius: 0.25rem;
+  color: #ffffff;
+}
+
+/*  SECTION  1  */
+.section-1 {
+  padding: 1rem 8.5rem;
+  background: url('/assets/header-background.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: white;
+  font-size: 0.9rem;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.section-1 .header-image {
+  padding: 5rem 0 1.75rem 0;
+}
+
+.section-1 .header-image img {
+  min-width: 28rem;
+  margin: auto;
+  display: block;
+}
+
+.section-1 .row {
+  padding-bottom: 3rem;
+}
+
+.section-1 .subsection-image.image-1 img {
+  min-width: 30rem;
+  float: right;
+}
+
+.section-1 .subsection-image.image-2 img {
+  float: left;
+}
+
+.section-1 .content-1 {
+  padding-top: 7rem;
+  padding-left: 1rem;
+}
+
+.section-1 .subsection-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.section-1 .content-1 a.btn.btn-green {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  padding: 1.5rem 2rem;
+  height: 4rem;
+  margin-top: 0.8rem;
+  font-size: 1.3rem;
+}
+
+.section-1 .content-2 {
+  padding-right: 5rem;
+}
+
+/*  SECTION 2  */
+.section-2 {
+  padding: 0;
+  margin: 0;
+}
+
+.section-2 img {
+  width: 100%;
+}
+
+/*  SECTION 3  */
+.section-3 {
+  padding: 8rem 10rem 0rem 10rem;
+  background: url('/assets/section3-topborder.jpg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  font-size: 1.1rem;
+  color: #636363;
+}
+
+.section-3 .section-title {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  font-size: 2rem;
+  padding-bottom: 2rem;
+}
+
+.section-3 .row {
+  padding: 1.5rem 5rem;
+}
+
+.section-3 .bullet {
+  max-width: 4rem;
+}
+
+.section-3 .note {
+  padding: 2rem 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: light;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #959595;
+  
+}
+
+.section-3 .call-to-action-text {
+  font-size: 1.2rem;
+  margin-right: 1.6rem;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #959595;
+}
+
+.section-3 .icon-download {
+  margin-left: 1rem;
+}
+
+.section-3 .btn.cta {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  padding: 1.5rem 2rem;
+  height: 4rem;
+  font-size: 1rem;
+}
+
+.section-3 .awards {
+  padding: 2rem 0;
+}
+
+.section-3 .award {
+  padding: 1rem 2rem;
+  text-align: center;
+}
+
+.section-3 .award img {
+  max-width: 10rem;
+}
+
+/*  SECTION 4  */
+.section-4 {
+  padding: 0;
+  margin: 0;
+}
+
+.section-4 img {
+  width: 100%;
+}
+
+/*  SECTION 5  */
+.section-5 {
+  padding: 7rem 10rem 2rem 10rem;
+}
+
+.section-5 .section-title {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  font-size: 1.7rem;
+  padding-bottom: 2rem;
+}
+
+.section-5 .product {
+  padding: 0 0.5rem;
+}
+
+.section-5 .content {
+  border-width: 0.1rem 0.1rem 0 0.1rem;
+  border-color: #d7d7d7;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  border-style: solid;
+  font-family: 'Open Sans', sans-serif;
+  color: #959595;
+}
+
+.section-5 .content p, .section-5 .content ul {
+  margin: 0 1rem;
+}
+
+.section-5 .product-image {
+  text-align: center;
+  height: 15rem;
+}
+
+.section-5 .product-image img {
+  padding: 2rem 0;
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 12rem;
+}
+
+.section-5 .price {
+  margin: 0;
+  padding: 1rem 0;
+  font-weight: bold;
+  font-size: 1.7rem;
+}
+
+.section-5 .compareTo {
+  font-size: 1.1rem;
+  padding-left: 0.75rem;
+  opacity: 0.8;
+}
+
+.section-5 .name {
+  font-weight: bold;
+  font-size: 1.05rem;
+  padding-bottom: 0.5rem;
+  
+}
+
+.section-5 .desc {
+  height: 6rem;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.section-5 .count {
+  font-weight: bold;
+  font-size: 0.9rem;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.section-5 .features {
+  height: 12rem;
+}
+
+.section-5 .showcase .btn {
+  width: 100%;
+  font-size: 1.1rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  height: 3.4rem;
+  padding: 1rem;
+  border-radius: 0;
+  border-bottom-left-radius: 0.25em;
+  border-bottom-right-radius: 0.25em;
+}
+
+.section-5 .divider {
+  margin: 5rem 0 3rem 0;
+}
+
+.section-5 .mouse-cta {
+  text-align: center;
+  font-size: 1.7rem;
+  color: #959595;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.section-5 .cta-text {
+  font-size: 2rem;
+  
+}
+
+.section-5 .cta-text img {
+  padding-right: 2rem;
+  vertical-align: middle;
+}
+
+.section-5 .mouse-cta .email img {
+  padding-right: 1.5rem;
+}
+
+.section-5 .mouse-cta .fax img {
+  padding-right: 1.5rem;
+}
+
+.section-5 .mouse-cta .btn-green {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  padding: 1.5rem 2rem;
+  height: 4rem;
+  margin: 0.8rem 0 3rem 0;
+  font-size: 1.3rem;
+}
+
+/*  SECTION 6  */
+.section-6 {
+  padding: 0;
+  margin: 0;
+}
+
+.section-6 img {
+  width: 100%;
+}
+
+/*  SECTION 7  */
+
+.section-7 {
+  padding: 4rem 11rem 2rem 11rem;
+  font-family: 'Nunito Sans', sans-serif;
+  color: #959595;
+}
+
+.section-7 .story {
+  font-size: 1.3rem;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+.section-7 .videos {
+  padding-bottom: 4rem;
+}
+
+.section-7 .video {
+  padding: 0 0.25rem;
+}
+
+.section-7 .video img {
+  width: 100%;
+}
+
+/*  SECTION 8  */
+.section-8 {
+  padding: 3rem 11rem 2rem 11rem;
+  font-family: 'Nunito Sans', sans-serif;
+  color: #959595;
+  background-color: #f9f9f9;
+  box-shadow: 0 0.3rem 0.3rem -0.1rem rgba(0,0,0,0.2)
+}
+
+.section-8 .testimonial img {
+  max-width: 7rem;
+}
+
+.section-8 .testimonial .content {
+  font-size: 1.3rem;
+}
+
+.section-8 .testimonial .author {
+  font-size: 1rem;
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+}
+
+/*  SECTION  9  */
+
+.section-9 {
+  padding: 3rem 0 1rem 0;
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: center;
+  color: #959595;
+}
+
+.section-9 .cta {
+  font-size: 1.7rem;
+}
+
+.section-9 .cta-text {
+  font-size: 2rem;
+  
+}
+
+.section-9 .cta-text img {
+  padding-right: 2rem;
+  vertical-align: middle;
+}
+
+.section-9 .cta .email img {
+  padding-right: 1.5rem;
+}
+
+.section-9 .cta .fax img {
+  padding-right: 1.5rem;
+}
+
+.section-9 .cta .btn-green {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  padding: 1.5rem 2rem;
+  height: 4rem;
+  margin: 0.8rem 0 3rem 0;
+  font-size: 1.3rem;
+}
+
+.section-9 .footer {
+  padding-top: 3rem;
+  font-size: 2rem;
+}
+
+/*  SECTION 10 */
+
+.section-10 {
+  padding: 0;
+  margin: 0;
+}
+
+.section-10 img {
+  width: 100%;
+}
+
+
+/*  FOOTER  */
+
+.container.footer {
+  background-color: #363636;
+  padding: 2rem 10rem 4rem 10rem;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.footer .columns {
+  margin: 0;
+}
+
+.footer .footer-logo {
+  padding-bottom: 1rem;
+}
+
+.footer .links .list a {
+  display: block;
+  padding: 0.3rem;
+  color: white;
+  font-weight: lighter;
+}
+
+.footer .newsletter {
+  padding-left: 3rem;
+}
+
+.footer .newsletter input {
+    margin-right: 0.3rem;
+    width: 13rem;
+    border-radius: 0.25rem;
+    padding: 0rem 1rem;
+}

@@ -1,0 +1,108 @@
+green button: #8bc63f
+social/twitter/testimonial section background: #f9f9f9
+footer bg: #363636
+body bg: #ffffff
+blue button: #25a3db
+orange button: #f7941d
+nav links: #858585
+bullets: #636363
+bullets note/call to action: #959595
+yellow button: #f0ca03
+red button: #e43858
+
+
+// NAV - MONTSERRAT REGULAR
+	Educators, Blog, About Us, Support
+
+	ORANGE BUTTON: Buy Now
+
+// SECTION 1
+	// SUBSECTION 1
+	Perfect for all students  Grade 3 and up! MONTSERRAT BOLD
+
+		With Piper, teaching engineering and programming is easy. In no time, you’ll have your students building a computer, creating electronics and learning computer programming skills. NUNITO SANS REGULAR
+
+	// SUBSECTION 2
+	Wood, Wires, Worlds & Wonder! MONTSERRAT BOLD
+
+		Hands-on building buttons, switches, and circuit connectors encourages kids to explore and understand the technology behind the devices they use on a daily basis. NUNITO SANS REGULAR
+
+//SECTION 3
+	// SUBSECTION 1
+	As easy as... - MONTSERRAT LIGHT
+
+		Students begin by assembling the pieces, guided by a full-sized blueprint. - NUNITO SANS REGULAR
+
+		What comes next is learning about electronics in the games, then physically building electronics to solve challenges. - NUNITO SANS REGULAR
+
+		Students discover how to program electronics and create their own 3D designs which they can also 3D print. - NUNITO SANS REGULAR
+
+		Students complete the program by disassembling the Piper Computer Kit so it is ready to re-use for the next group of students! - NUNITO SANS REGULAR
+
+	// NOTE - MONTSERRAT LIGHT ITALIC
+	*No WiFI required (other than for occasional updates). Easily integrate Piper into classroom curriculum. Fully portable with it’s own, safe power-source. Replaceable parts available.
+
+	// CALL TO ACTION
+	There’s no better way for students to discover technology then by building it
+
+	Download Piper Unit Plan Sample
+
+// SECTION 5
+	// SUBSECTION 1 - MONTSERRAT LIGHT
+	Flexible Pricing Options \nFor Schools, Libraries and Camps
+
+		// PRODUCT 1 - OpenSans BOLD
+		$299.^00
+		Piper EDU Computer Kit
+			// DESC
+			Ideal for your homeschool classroom or as a STEAM enrichment activity. - OPEN SANS LIGHT
+
+			1 Piper Kit - NUNITO SANS BOLD
+
+
+	// SUBSECTION 2
+	Need a quote? Purchase orders accepted. NUNITO SANS REGULAR
+
+	CONTACT A SPECIALIST - MONTSERRAT BOLD
+
+	Educators@buildpiper.com  NUNITO SANS REGULAR
+
+
+	FAX: (888) 767-1941  NUNITO SANS REGULAR
+
+
+// SECTION 7
+Interests in technology, education, and formative development through critical thinking led Piper’s founders, Mark Pavlyukovskyy and Joel Sadler (Princeton, Oxford, Stanford, and MIT alumni) to explore how to introrduce technology to children in a way that goes beyond the common approach of touching-screens, moving puzzle pieces or tapping a keyboard. - NUNITO SANS REGULAR/BOLD
+
+
+	// TESTIMONIAL
+	"No matter how old, no matter what gender, the kids are engaged in Piper and the process of making... It's bringing engineering, math, science and technology all together." NUNITO SANS REGULAR
+
+	// AUTHOR
+	- Ken Willers, Principal of School of the Madeleine -OPEN SANS REGULAR
+
+// SECTION 8
+	// CALL TO ACTION
+	Need a quote? Purchase orders accepted. NUNITO SANS REGULAR
+
+	CONTACT A SPECIALIST - MONTSERRAT BOLD
+
+	Educators@buildpiper.com - NUNITO SANS REGULAR
+
+	FAX: (888) 767-1941 - NUNITO SANS REGULAR
+
+	Piper in the Community! - NUNITO SANS REGULAR
+
+// SECTION 9/SOCIAL
+	Follow us here. - NUNITO SANS LIGHT
+
+// FOOTER LINKS - OPEN SANS LIGHT
+
+For Educators, About Us, Community, Forum, Careers
+
+Media, Parts, Support
+
+Affiliate Program, Terms & Conditions
+
+	// CTA EMAIL - OPEN SANS
+	Subscribe to our newsletter and you could win a Piper Computer Kit!
