@@ -86,7 +86,7 @@ html {
 }
 
 .section-1 .header-image img {
-  min-width: 28rem;
+  max-width: 28rem;
   margin: auto;
   display: block;
 }
@@ -327,6 +327,7 @@ html {
 .section-5 .cta-text img {
   padding-right: 2rem;
   vertical-align: middle;
+  max-width: 7rem;
 }
 
 .section-5 .mouse-cta .email img {
@@ -477,6 +478,10 @@ html {
 
 .footer .footer-logo {
   padding-bottom: 1rem;
+}
+
+.footer .footer-logo img {
+  max-width: 7rem;
 }
 
 .footer .links .list a {
