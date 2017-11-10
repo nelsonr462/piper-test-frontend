@@ -101,6 +101,7 @@ html {
 }
 
 .section-1 .subsection-image.image-2 img {
+  max-width: 25rem;
   float: left;
 }
 
