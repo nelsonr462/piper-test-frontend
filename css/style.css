@@ -332,10 +332,12 @@ html {
 
 .section-5 .mouse-cta .email img {
   padding-right: 1.5rem;
+  max-width: 4rem;
 }
 
 .section-5 .mouse-cta .fax img {
   padding-right: 1.5rem;
+  max-width: 4rem;
 }
 
 .section-5 .mouse-cta .btn-green {
@@ -431,10 +433,12 @@ html {
 
 .section-9 .cta .email img {
   padding-right: 1.5rem;
+  max-width: 4rem;
 }
 
 .section-9 .cta .fax img {
   padding-right: 1.5rem;
+  max-width: 4rem;
 }
 
 .section-9 .cta .btn-green {
